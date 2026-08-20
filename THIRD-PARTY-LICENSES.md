@@ -37,8 +37,8 @@ This file is generated from the SDK's resolved dependency graph plus a curated l
 | io.ktor:ktor-utils | 3.5.1 | Apache-2.0 | gradle |
 | io.ktor:ktor-websocket-serialization | 3.5.1 | Apache-2.0 | gradle |
 | io.ktor:ktor-websockets | 3.5.1 | Apache-2.0 | gradle |
-| org.jetbrains.kotlin:kotlin-stdlib | 2.4.0 | Apache-2.0 | gradle |
-| org.jetbrains.kotlinx:atomicfu | 0.32.1 | Apache-2.0 | gradle |
+| org.jetbrains.kotlin:kotlin-stdlib | 2.4.10 | Apache-2.0 | gradle |
+| org.jetbrains.kotlinx:atomicfu | 0.33.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-coroutines-core | 1.11.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-datetime | 0.8.0-0.6.x-compat | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-io-bytestring | 0.9.0 | Apache-2.0 | gradle |
@@ -46,8 +46,8 @@ This file is generated from the SDK's resolved dependency graph plus a curated l
 | org.jetbrains.kotlinx:kotlinx-serialization-core | 1.11.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-serialization-json | 1.11.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-serialization-json-io | 1.11.0 | Apache-2.0 | gradle |
-| org.kodein.di:kodein-di | 7.32.0 | MIT | gradle |
-| org.kodein.type:kaverit | 2.12.0 | MIT | gradle |
+| org.kodein.di:kodein-di | 7.33.0 | MIT | gradle |
+| org.kodein.type:kaverit | 2.14.0 | MIT | gradle |
 
 ## Retained copyright notices
 

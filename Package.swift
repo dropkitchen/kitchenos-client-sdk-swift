@@ -13,8 +13,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "KitchenOS",
-      url: "https://github.com/dropkitchen/kitchenos-client-sdk-swift/releases/download/v1.61.0/KitchenOS.xcframework.zip",
-      checksum: "3754590560f3b7a5dafd2070e40157c651633fca0624221f105f2d3735841c64"
+      url: "https://github.com/dropkitchen/kitchenos-client-sdk-swift/releases/download/v1.63.0/KitchenOS.xcframework.zip",
+      checksum: "36110ee600c6c4f20e727cd3d8263257f6facf1426212f631f10f2b0ba50c32a"
     )
   ]
 )
