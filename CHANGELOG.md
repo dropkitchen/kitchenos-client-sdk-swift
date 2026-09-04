@@ -5,6 +5,10 @@ Entries are appended automatically by the release pipeline in `dropkitchen/kitch
 
 <!-- releases below -->
 
+## v1.66.0 — 2026-09-04
+
+KitchenOS SDK 1.66.0. Artifact: `KitchenOS.xcframework.zip` (iOS device + simulator slices, dSYMs included).
+
 ## v1.65.0 — 2026-09-04
 
 KitchenOS SDK 1.65.0. Artifact: `KitchenOS.xcframework.zip` (iOS device + simulator slices, dSYMs included).
