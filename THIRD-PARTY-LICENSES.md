@@ -8,8 +8,8 @@ This file is generated from the SDK's resolved dependency graph plus a curated l
 
 | Component | Version | Licence | Source |
 |---|---|---|---|
-| app.cash.sqldelight:native-driver | 2.3.2 | Apache-2.0 | gradle |
-| app.cash.sqldelight:runtime | 2.3.2 | Apache-2.0 | gradle |
+| app.cash.sqldelight:native-driver | 2.4.1 | Apache-2.0 | gradle |
+| app.cash.sqldelight:runtime | 2.4.1 | Apache-2.0 | gradle |
 | [co.touchlab.skie:configuration-annotations](https://github.com/touchlab/SKIE) | — | Apache-2.0 | curated |
 | [co.touchlab.skie:runtime-kotlin](https://github.com/touchlab/SKIE) | — | Apache-2.0 | curated |
 | co.touchlab:sqliter-driver | 1.3.3 | Apache-2.0 | gradle |
@@ -38,14 +38,14 @@ This file is generated from the SDK's resolved dependency graph plus a curated l
 | io.ktor:ktor-utils | 3.6.1 | Apache-2.0 | gradle |
 | io.ktor:ktor-websocket-serialization | 3.6.1 | Apache-2.0 | gradle |
 | io.ktor:ktor-websockets | 3.6.1 | Apache-2.0 | gradle |
-| org.jetbrains.kotlin:kotlin-stdlib | 2.4.10 | Apache-2.0 | gradle |
+| org.jetbrains.kotlin:kotlin-stdlib | 2.4.21 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:atomicfu | 0.33.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-coroutines-core | 1.11.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-datetime | 0.8.0-0.6.x-compat | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-io-bytestring | 0.9.1 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-io-core | 0.9.1 | Apache-2.0 | gradle |
-| org.jetbrains.kotlinx:kotlinx-serialization-core | 1.11.0 | Apache-2.0 | gradle |
-| org.jetbrains.kotlinx:kotlinx-serialization-json | 1.11.0 | Apache-2.0 | gradle |
+| org.jetbrains.kotlinx:kotlinx-serialization-core | 1.12.0 | Apache-2.0 | gradle |
+| org.jetbrains.kotlinx:kotlinx-serialization-json | 1.12.0 | Apache-2.0 | gradle |
 | org.jetbrains.kotlinx:kotlinx-serialization-json-io | 1.11.0 | Apache-2.0 | gradle |
 | org.kodein.di:kodein-di | 7.33.0 | MIT | gradle |
 | org.kodein.type:kaverit | 2.14.0 | MIT | gradle |
